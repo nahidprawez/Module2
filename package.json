@@ -1,0 +1,17 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Assignment of Module2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "Md Nahid Prawez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
